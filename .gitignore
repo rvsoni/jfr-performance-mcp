@@ -1,0 +1,13 @@
+target/
+dependency-reduced-pom.xml
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.jfr
+!recordings/demo-production.jfr
+!recordings/.gitkeep
